@@ -69,7 +69,8 @@ pip install pandas numpy matplotlib openpyxl
 Ejecutar el programa:
 
 ```bash
-python programacion.py
+python src/programación.py
+```
 ```
 
 ---
